@@ -1,2 +1,2 @@
-#/bin/bash
-echo "hard work &"
+#!/bin/bash
+echo 'hard work .'
