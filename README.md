@@ -1,2 +1,2 @@
 #/bin/bash
-echo "hard work"
+echo "hard work &"
