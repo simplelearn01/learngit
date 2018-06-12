@@ -1,2 +1,1 @@
-#!/bin/bash
-echo 'hard work .'
+Creating a new branch is quick AND simple.
